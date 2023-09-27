@@ -4,7 +4,7 @@ const app = require("express")()
 // Alternative
 //const express = require("express")
 //const app = express()
-
+//npm install nodemon
 //Functions are arrow and regular function
 
 app.get("/",(req,res)=>{
